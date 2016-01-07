@@ -1,6 +1,6 @@
 # wdgen
-Word generator.
-This is example of Ruby meta programming.
+Word generator.  
+This is example of Ruby meta programming.  
 Script dynamically creates nested loops to avoid recursion approach.
 
 <pre><code>
